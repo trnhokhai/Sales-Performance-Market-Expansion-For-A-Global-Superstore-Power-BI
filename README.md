@@ -1,5 +1,6 @@
 # 🌍 Sales Performance & Market Expansion For A Global Superstore | Power BI
 
+![background](https://github.com/user-attachments/assets/c712d9dd-90e5-4347-92d6-5d5a1971d253)
 
 
 
@@ -126,6 +127,7 @@ The dataset consists of **three tables**:
 </details>
 
 #### 2️⃣ Data Relationships:
+<img width="996" height="802" alt="Data Modeling" src="https://github.com/user-attachments/assets/d9ac8578-a199-4739-8a23-a3ea3c1a5ae1" />
 
 
 
@@ -140,10 +142,16 @@ The dataset consists of **three tables**:
 ### 🔍 Dashboard Preview
 
 ### I. Overview
+<img width="1517" height="846" alt="Overview" src="https://github.com/user-attachments/assets/25aa8877-d3ac-445b-9c19-9781abe54eab" />
 
 ### II. Market
+<img width="1522" height="856" alt="Market Analyst" src="https://github.com/user-attachments/assets/bf065326-d7fa-4b51-82b7-40cfb81d6446" />
 
 ### III. Product Analysis
+<img width="1518" height="852" alt="Product Analysis" src="https://github.com/user-attachments/assets/d3e40db6-bf65-49d4-a997-ab6280d5749a" />
+
+### IV. Sales Agent
+<img width="1513" height="855" alt="Sales Agents" src="https://github.com/user-attachments/assets/6886f950-6ca0-4f4c-b81f-84dcfc8214d0" />
 
 
 ## Insight & Recommendation

@@ -7,9 +7,8 @@
 ## Table of Contents
 1. [📌 Background & Overview](#background--overview)
 2. [📂 Dataset Description & Data Structure](#dataset-description--data-structure)
-3. [🧠 Design Thinking Process](#design-thinking-process)
-4. [📊 Key Insights & Visualizations](#key-insights--visualizations)
-5. [🔎 Final Conclusion & Recommendation](#final-conclusion--recommendation)
+3. [📊 Key Insights & Visualizations](#key-insights--visualizations)
+4. [🔎 Final Conclusion & Recommendation](#final-conclusion--recommendation)
 
 ---
 
@@ -129,12 +128,6 @@ The dataset consists of **three tables**:
 #### 2️⃣ Data Relationships:
 <img width="996" height="802" alt="Data Modeling" src="https://github.com/user-attachments/assets/d9ac8578-a199-4739-8a23-a3ea3c1a5ae1" />
 
-
-
-| **From Table** | **To Table** | **Join Key**   | **Relationship Type**                                  |
-|------------|----------|------------|----------------------------------------------------|
-| `Orders`   | `People` | `Region`   | Many-to-One (multiple orders belong to one region) |
-| `Orders`   | `Returns`| `Order ID` | One-to-One or Left Join (not all orders are returned) |
 
 
 ## 📊 Visualizations

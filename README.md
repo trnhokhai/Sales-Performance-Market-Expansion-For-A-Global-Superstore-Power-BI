@@ -16,47 +16,31 @@
 
 **Objective:**
 
-**📖 What is this project about?**
+#### **What is this project about?**
+This project analyzes the **Global Superstore Sales** dataset to build a **Power BI dashboard** that evaluates business performance across regions, product categories, and customer segments.
 
-This project aims to build a **Power BI dashboard** using the *Global Superstore Sales* dataset, which includes data on transactions (**Orders**), sales representatives (**People**), and product returns (**Returns**).
-The goal is to provide senior managers with **data-driven insights** to:
+The analysis integrates:
+- **Orders**: transactional sales data  
+- **People**: sales representatives by region  
+- **Returns**: product return data impacting profitability  
 
-- **Understand current business performance**
- 
-- **Optimize market expansion strategies**
+The goal is to provide **data-driven insights** that support strategic decision-making related to revenue growth, profitability, and market expansion.
 
-- **Identify strategic products for growth**
+---
 
-- **Support better decision-making to drive revenue and ROI**
+#### **Who is this project for?**
+- Data analysts and business analysts seeking actionable insights  
+- Sales and marketing teams evaluating product performance and regional growth  
+- Route-to-market teams optimizing distribution strategies and market reach  
+- Senior managers and decision-makers supporting strategic planning  
 
+---
 
-**👤 Who is this project for?**
-
-✔️ Data analysts & business analysts seeking actionable insights.
-
-✔️ Marketing and sales teams focusing on product performance and market growth.
-
-✔️ Route to market team aiming to improve distribution strategies and market reach.
-
-
-**❓Business Questions:**
-
-✔️ What is the current performance of Superstore?
-
-✔️ Which markets should Superstore expand into to increase revenue and ROI?
-
-✔️ Which products should be prioritized for strategic growth?
-
-
-**🎯Project Outcome:**
-
-- Revenue increased significantly, but profit margin remained flat, indicating rising costs and limited operational efficiency gains.  
-- Canada emerged as a high-margin market (28%) despite low revenue, while Africa and EMEA showed the fastest YoY growth, revealing expansion potential.  
-- Oceania and Africa attracted the most new customers, whereas most revenue still came from loyal, returning buyers.  
-- Technology led revenue growth and profitability, but return rates in some tech SKUs (e.g., Cisco, Motorola) impacted margins.  
-- Products like Copiers delivered the highest profit per unit, while low-performing items (e.g., Suppliers, Furnishings) diluted overall profitability.
-
-By aligning regional and product strategies, senior managers can **scale in high-margin markets**, **invest in scalable profitable categories**, and **optimize acquisition and return management**, driving **sustainable long-term growth**.
+#### **Business Questions**
+- What is the current business performance across regions and product categories?  
+- Which markets present the strongest opportunities for revenue and ROI expansion?  
+- Which products and categories should be prioritized for profitable growth?  
+- Where are profitability risks driven by costs, returns, or low margins?  
 
 ## 📂 Dataset Description & Data Structure
 

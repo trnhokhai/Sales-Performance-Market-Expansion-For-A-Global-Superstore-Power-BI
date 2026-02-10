@@ -41,7 +41,6 @@ The goal is to provide **data-driven insights** that support strategic decision-
 - What is the current business performance across regions and product categories?  
 - Which markets present the strongest opportunities for revenue and ROI expansion?  
 - Which products and categories should be prioritized for profitable growth?  
-- Where are profitability risks driven by costs, returns, or low margins?  
 
 ## 📂 Dataset Description & Data Structure
 

@@ -5,10 +5,11 @@
 
 
 ## Table of Contents
-1. [📌 Background & Overview](#background--overview)
-2. [📂 Dataset Description & Data Structure](#dataset-description--data-structure)
-3. [📊 Key Insights & Visualizations](#key-insights--visualizations)
-4. [🔎 Final Conclusion & Recommendation](#final-conclusion--recommendation)
+- [📌 Background & Overview](#-background--overview)
+- [📂 Dataset Description & Data Structure](#-dataset-description--data-structure)
+- [🧠 Design Thinking Process](#-design-thinking-process)
+- [📊 Key Insights & Visualizations](#-visualizations)
+- [🚀 Insight & Recommendation](#insight--recommendation)
 
 ---
 

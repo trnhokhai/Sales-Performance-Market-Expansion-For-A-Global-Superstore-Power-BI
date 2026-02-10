@@ -242,57 +242,14 @@ The dataset consists of **three tables**:
 
 ## Insight & Recommendation
 
-## 📌 Market Optimization
+## 🚀 Strategic Framework Summary
 
-### 🌍 Market Overview
-- The company has established a presence across all major global markets.
-- Rather than entering new geographies, expansion within existing markets is recommended to leverage established infrastructure and customer bases.
-- **Canada** is a priority market: despite strong YoY growth and a healthy profit margin, its customer base remains limited, resulting in relatively low revenue.
-- Recommended action: develop a targeted strategy to broaden customer reach in Canada.
+| Strategy Area | Key Actions |
+|---------------|-------------|
+| **Market Strategy** | Focus on expanding within existing markets instead of entering completely new ones. <br> Continue investing in core markets (APAC, EU, US) where revenue is large and stable. <br> Expand carefully in high-growth markets (EMEA, Africa) to capture growth while controlling risk. <br> Treat Canada as a high-margin niche market, prioritizing profitability over volume growth. |
+| **Product Strategy** | Prioritize high-performing products (e.g., Phones, Copiers) that consistently generate revenue and profit. <br> Avoid scaling products that drive revenue but hurt margins (e.g., Tables with negative profit). <br> Simplify the product portfolio by focusing on the small group of products that drive most revenue. |
+| **Risk & Quality Control** | Monitor return rate alongside revenue growth to avoid scaling low-quality or high-risk segments. <br> Investigate markets or products with high growth but elevated return rates before expanding further. |
+| **Sales Execution** | Evaluate sales performance using profitability metrics rather than revenue alone. <br> Encourage sales teams to focus on selling the right products, not just increasing order volume. <br> Replicate selling patterns from high-margin, low-return performers across teams. |
+| **Business Impact** | Enables profitable and controlled growth. <br> Reduces risk from over-expansion. <br> Aligns market, product, and sales decisions with long-term value creation. |
 
----
-
-### 👤 Sales Agent
-- **Nicole Hansen** manages the Canadian market.
-- Revenue, profit margin, and YoY growth under her management are all performing well.
-- Recommended action: continue her oversight and leverage best practices from her execution in similar markets.
-
----
-
-### 📦 Product Strategy
-- **Phones, Copiers, Chairs, and Bookcases** are the company’s best-selling products overall.
-- Recommended action: position **Phones and Copiers** as strategic products for future growth due to their consistent revenue and profitability contribution.
-
----
-
-## 📌 Current Market Optimization
-
-### APAC Market
-- Best-performing market overall.
-- Recommendation:
-  - Continue heavy investment, focusing on **Technology** and **Furniture** (each generating over $1.3M in revenue).
-  - Improve return rates (currently ~6–7%) to enhance margin performance.
-
-### EU Market
-- Approximately **$3M revenue**, **10–13% margin**, and **~55% YoY growth**.
-- Recommendation:
-  - Expand **Technology** and **Office Supplies**.
-  - Maintain product quality and keep return rates stable (~6%).
-
-### US Market
-- Strong profitability but slower revenue scale growth.
-- Recommendation:
-  - Expand product offerings or increase marketing investment to drive top-line growth.
-
-### LATAM Market
-- Strong growth but low margins.
-- Recommendation:
-  - Invest cautiously with a focus on **cost control** and **raising AOV**.
-
-### Africa & EMEA
-- Underperforming overall, with high customer counts but **negative profitability**.
-- Recommendation:
-  - Investigate root causes (pricing, fulfillment, product-market fit).
-  - Consider corrective measures or potential market exit if profitability cannot be restored.
-|
 

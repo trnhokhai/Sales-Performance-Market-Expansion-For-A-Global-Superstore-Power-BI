@@ -241,13 +241,57 @@ The dataset consists of **three tables**:
 
 ## Insight & Recommendation
 
-## 🚀 Strategic Recommendations
+## 📌 Market Optimization
 
-| Strategy Area | Key Actions |
-|---------------|-------------|
-| **Market Expansion & Focus** | Prioritize expansion within existing markets rather than entering new geographies, leveraging established infrastructure and customer bases. <br> Maintain focus on core markets (APAC, EU, US) as primary revenue engines with emphasis on margin protection and operational efficiency. <br> Expand selectively in high-growth emerging markets (EMEA, Africa) using controlled pilots instead of full-scale rollout. <br> Treat Canada as a high-margin niche market, optimizing profitability without aggressive volume expansion. |
-| **Product Portfolio Optimization** | Designate Technology-led sub-categories (e.g., Phones, Copiers) as strategic products due to consistent revenue and profit contribution. <br> Scale products with strong margin stability and acceptable return rates rather than high-revenue products alone. <br> Deprioritize or re-evaluate structurally unprofitable products (e.g., Tables) that dilute margins as volume increases. <br> Apply Pareto focus to reduce long-tail complexity and concentrate resources on high-impact sub-categories. |
-| **Growth Risk & Return Control** | Use return rate as a core risk indicator alongside revenue growth at both market and product levels. <br> For fast-growing markets or products with elevated return rates, conduct targeted reviews on product–market fit, fulfillment and logistics, pricing, and customer expectations. <br> Avoid scaling volume in segments where growth is consistently offset by return-driven margin erosion. |
-| **Sales Execution & Performance Management** | Shift sales performance evaluation from revenue-centric metrics to a profitability-based scorecard (profit, margin, return rate). <br> Identify sales agents with efficient product mix and low return exposure and standardize their selling patterns across teams. <br> Align incentives and coaching to encourage margin-aware selling rather than pure volume expansion. |
-| **Operating Model Alignment** | In mature markets with slower growth, prioritize process optimization and cost discipline to sustain margins. <br> Replicate best-performing operational practices across regions instead of pursuing aggressive headcount or volume expansion. <br> Use the dashboard as a continuous decision-support tool rather than a one-time reporting artifact. |
+### 🌍 Market Overview
+- The company has established a presence across all major global markets.
+- Rather than entering new geographies, expansion within existing markets is recommended to leverage established infrastructure and customer bases.
+- **Canada** is a priority market: despite strong YoY growth and a healthy profit margin, its customer base remains limited, resulting in relatively low revenue.
+- Recommended action: develop a targeted strategy to broaden customer reach in Canada.
+
+---
+
+### 👤 Sales Agent
+- **Nicole Hansen** manages the Canadian market.
+- Revenue, profit margin, and YoY growth under her management are all performing well.
+- Recommended action: continue her oversight and leverage best practices from her execution in similar markets.
+
+---
+
+### 📦 Product Strategy
+- **Phones, Copiers, Chairs, and Bookcases** are the company’s best-selling products overall.
+- Recommended action: position **Phones and Copiers** as strategic products for future growth due to their consistent revenue and profitability contribution.
+
+---
+
+## 📌 Current Market Optimization
+
+### APAC Market
+- Best-performing market overall.
+- Recommendation:
+  - Continue heavy investment, focusing on **Technology** and **Furniture** (each generating over $1.3M in revenue).
+  - Improve return rates (currently ~6–7%) to enhance margin performance.
+
+### EU Market
+- Approximately **$3M revenue**, **10–13% margin**, and **~55% YoY growth**.
+- Recommendation:
+  - Expand **Technology** and **Office Supplies**.
+  - Maintain product quality and keep return rates stable (~6%).
+
+### US Market
+- Strong profitability but slower revenue scale growth.
+- Recommendation:
+  - Expand product offerings or increase marketing investment to drive top-line growth.
+
+### LATAM Market
+- Strong growth but low margins.
+- Recommendation:
+  - Invest cautiously with a focus on **cost control** and **raising AOV**.
+
+### Africa & EMEA
+- Underperforming overall, with high customer counts but **negative profitability**.
+- Recommendation:
+  - Investigate root causes (pricing, fulfillment, product-market fit).
+  - Consider corrective measures or potential market exit if profitability cannot be restored.
+|
 

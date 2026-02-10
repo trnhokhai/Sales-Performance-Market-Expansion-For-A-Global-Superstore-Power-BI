@@ -112,6 +112,41 @@ The dataset consists of **three tables**:
 #### 2️⃣ Data Relationships:
 <img width="996" height="802" alt="Data Modeling" src="https://github.com/user-attachments/assets/d9ac8578-a199-4739-8a23-a3ea3c1a5ae1" />
 
+## 🧠 Design Thinking Process 
+### 1️⃣ Empathize  
+#### 5W1H
+| Question | Details |
+|---------|---------|
+| **Who will use this dashboard?** | Senior Management <br> Sales Manager <br> Marketing Manager |
+| **What problem does this dashboard solve?** | Help stakeholders understand business performance quickly <br> Identify where to grow and what to focus on for market expansion <br> Detect inefficient markets, products, and sales execution |
+| **When & where will stakeholders use this dashboard?** | Weekly and monthly business review meetings <br> Executive decision-making discussions <br> Individual analysis before proposing business strategies |
+| **Why is this analysis needed?** | Business operates across multiple markets with uneven performance <br> Growth opportunities exist, but not all growth is profitable <br> Stakeholders need data-backed insights, not raw reports |
+| **How will stakeholders make decisions using this dashboard?** | Set growth and expansion priorities <br> Allocate resources across markets and products <br> Optimize sales and product strategies <br> Review outcomes and iterate decisions |
+
+| Key Item | Description |
+|----------|-------------|
+| **Primary Stakeholder** | Sales Manager |
+| **Problem Statement** | Use data to identify profitable growth opportunities and support market expansion decisions. |
+
+#### Empathy Map
+
+| Category | Details |
+|----------|---------|
+| **Thinking & Feeling** | There is a lot of data, but not enough clear insight. <br> Where are we missing growth opportunities? <br> Are we scaling the right markets and products? <br> Revenue is growing, but is this growth sustainable? |
+| **Seeing** | Revenue is increasing across markets <br> Performance varies significantly by market and product <br> Global markets show different growth and margin patterns <br> No clear prioritization of strategic products or markets |
+| **Saying** | Show me the full picture. <br> Which markets and products actually drive profit? <br> Don’t give me numbers, give me insights. <br> If a product is underperforming, be clear about it. |
+| **Doing** | Request concise executive summaries <br> Compare performance across markets and products <br> Ask follow-up questions on low-margin or high-return areas <br> Focus on expansion and optimization decisions |
+| **Pains** | Too much data, not enough clarity <br> Difficulty identifying profitable growth <br> Risk of expanding low-margin segments <br> Lack of a clear expansion strategy |
+| **Gains** | Clear visibility into business performance <br> Data-driven market and product prioritization <br> Ability to track growth and risk continuously <br> Stronger confidence in strategic decisions |
+
+#### Stakeholder Needs
+
+| Area | Key Questions |
+|------|---------------|
+| **Market** | Which markets are growing the fastest? <br> Which markets generate the most profit? <br> Which markets have growth potential but operational risk? |
+| **Customer** | Which customer segments drive revenue and profit? <br> Where does demand come from across markets? <br> Are return rates increasing as volume scales? |
+| **Product** | Which products are best-sellers by market? <br> Which products generate the highest profit margins? <br> Which products should be prioritized or deprioritized during expansion? |
+| **Sales** | Who are the top-performing sales agents by profitability? <br> Which sales agents drive sustainable growth? <br> How does sales performance vary across markets? |
 
 
 ## 📊 Visualizations
@@ -121,66 +156,98 @@ The dataset consists of **three tables**:
 ### I. Overview
 <img width="1517" height="846" alt="Overview" src="https://github.com/user-attachments/assets/25aa8877-d3ac-445b-9c19-9781abe54eab" />
 
+#### 💡 Key Business Insights
+
+- **Profitable growth confirmed:** Revenue and profit are growing in lockstep (+51.5% and +52.3% YoY), indicating that growth is value-driven rather than achieved at the expense of margins.
+
+- **Margin stability signals maturity:** Profit margin remains stable at approximately **11.6%**, suggesting a healthy but maturing growth phase where margin expansion is beginning to level off.
+
+- **Strong demand with improving execution:** Order volume increased significantly (+51.7% YoY) while the return rate declined to **4.68%**, reflecting strong customer demand supported by better operational execution.
+
+- **Revenue concentration in core markets:** APAC, EU, and the US account for the majority of revenue contribution, functioning as the company’s primary revenue engines.
+
+- **Efficiency not always driven by scale:** Several smaller markets achieve higher relative margins, highlighting that scale does not necessarily equate to operational efficiency.
+
+- **Product mix impacts profitability:** Technology and Office Supplies generate most of the revenue, while Furniture consistently underperforms on margin, indicating that product mix is a key driver of overall profitability.
+
+- **Different market growth dynamics:** Emerging markets (EMEA, Africa) show strong growth momentum from a smaller base, whereas core markets exhibit steadier, more mature growth patterns.
+
+- **Return risk varies by product category:** Office Supplies combine high demand with lower return risk, while Technology and Furniture carry higher return exposure, increasing operational risk as volume scales.
+
+
 ### II. Market
 <img width="1522" height="856" alt="Market Analyst" src="https://github.com/user-attachments/assets/bf065326-d7fa-4b51-82b7-40cfb81d6446" />
+
+#### 💡 Insights
+
+- **Overall performance remains strong:** Total revenue reached **$12.64M** with **$1.47M profit** and a stable **11.61% profit margin**, indicating healthy overall business performance.
+
+- **Growth is volume-driven, not value-driven:** Revenue growth is primarily driven by increasing order volume, while **AOV remains flat (-0.1% YoY)**, suggesting limited pricing or value uplift.
+
+- **Execution quality remains stable:** Return rate continues to trend downward, indicating consistent execution quality across markets despite rapid growth.
+
+- **Revenue concentration in core markets:** APAC, EU, and the US account for the majority of both revenue and profit, functioning as the company’s core scale markets.
+
+- **Efficiency varies by market:** Profitability differs significantly across regions, confirming that higher revenue scale does not necessarily translate into higher efficiency.
+
+- **Canada as a structural outlier:** Canada operates as a **high-margin, low-scale market (~26.6% margin)**, making it structurally different from other regions.
+
+- **Emerging market growth potential:** EMEA and Africa exhibit the highest revenue growth rates (**~59.8% and ~56.5%**), signaling strong expansion potential from a smaller base.
+
+- **Higher return risk in select markets:** LATAM and the US show elevated return rates (**~5.8–5.9%**), introducing higher operational and customer-fit risk as volume scales.
+
+- **Long-term growth structure:** Over time, overall growth is structurally driven by core markets, while emerging markets contribute gradually without introducing significant volatility.
+
+- **Profit per customer dynamics:** Markets with higher AOV (APAC, EU) generate higher profit per customer, while Africa and Canada underperform on this metric, indicating that pricing alone does not determine customer profitability.
+
 
 ### III. Product Analysis
 <img width="1518" height="852" alt="Product Analysis" src="https://github.com/user-attachments/assets/d3e40db6-bf65-49d4-a997-ab6280d5749a" />
 
+####  💡 Insights
+
+- **Growth driven by volume, not value:** Revenue growth is primarily volume-driven, as **AOV declined slightly (–0.1% YoY)** while transaction volume continued to increase.
+
+- **Revenue concentration by sub-category:** Revenue is highly concentrated in a small number of sub-categories, led by **Phones, Copiers, Chairs, and Bookcases**.
+
+- **Revenue does not equal efficiency:** Profitability varies significantly across sub-categories, confirming that high revenue does not necessarily translate into high efficiency.
+
+- **Margin drag identified:** **Tables** act as a clear margin drag, generating **negative profit (~–$64K)** with a **–8.46% margin**.
+
+- **Strong Pareto effect:** Pareto analysis confirms a clear **80/20 pattern**, where a limited set of sub-categories contributes approximately **80% of total revenue**, while the remaining products add marginal value.
+
+- **Volume–profit mismatch:** Order volume does not consistently translate into profit; several moderate-volume sub-categories deliver strong profitability, while some high-volume categories scale inefficiently.
+
+- **Product–market fit differences:** Product performance varies meaningfully by market, indicating differences in product–market fit and limiting the effectiveness of a uniform global product strategy.
+
+
 ### IV. Sales Agent
 <img width="1513" height="855" alt="Sales Agents" src="https://github.com/user-attachments/assets/6886f950-6ca0-4f4c-b81f-84dcfc8214d0" />
 
+#### 💡 Insights
+
+- **Strong contribution to overall growth:** Sales performance supports continued business growth, with **$12.64M revenue (+51.5% YoY)** and **$1.47M profit (+52.3% YoY)**, while profit margin remains stable at **11.61%**.
+
+- **Uneven revenue contribution across agents:** Revenue generation is highly concentrated, with a small group of sales agents driving a disproportionate share of total sales.
+
+- **Revenue does not equal profitability:** High revenue performance at the agent level does not consistently translate into high profitability.
+
+- **Execution risk among high-volume agents:** Several agents generate strong sales volume but operate with lower margins or higher return rates, increasing execution and customer-fit risk.
+
+- **Efficiency-driven agent performance:** Other agents deliver moderate revenue with stronger margins and lower return exposure, indicating more efficient and sustainable selling behavior.
+
+- **Product mix drives outcomes:** Sales performance is strongly influenced by product mix, not solely by selling activity or order volume, highlighting the importance of aligning incentives with profitable products.
+
 
 ## Insight & Recommendation
-## 📊 Market Optimization Summary
 
-### 🌍 **Market Overview**
-The company has established a presence in all major global markets.  
-Rather than entering new ones, it is recommended to **expand within existing markets**.
+## 🚀 Strategic Recommendations
 
-**🇨🇦 Canada** is recommended for growth:  
-Despite strong **YoY growth** and **healthy profit margin**, its **customer base remains limited**, resulting in relatively low revenue.  
-👉 **Develop a strategy to broaden customer reach in Canada.**
+| Strategy Area | Key Actions |
+|---------------|-------------|
+| **Market Expansion & Focus** | Prioritize expansion within existing markets rather than entering new geographies, leveraging established infrastructure and customer bases. <br> Maintain focus on core markets (APAC, EU, US) as primary revenue engines with emphasis on margin protection and operational efficiency. <br> Expand selectively in high-growth emerging markets (EMEA, Africa) using controlled pilots instead of full-scale rollout. <br> Treat Canada as a high-margin niche market, optimizing profitability without aggressive volume expansion. |
+| **Product Portfolio Optimization** | Designate Technology-led sub-categories (e.g., Phones, Copiers) as strategic products due to consistent revenue and profit contribution. <br> Scale products with strong margin stability and acceptable return rates rather than high-revenue products alone. <br> Deprioritize or re-evaluate structurally unprofitable products (e.g., Tables) that dilute margins as volume increases. <br> Apply Pareto focus to reduce long-tail complexity and concentrate resources on high-impact sub-categories. |
+| **Growth Risk & Return Control** | Use return rate as a core risk indicator alongside revenue growth at both market and product levels. <br> For fast-growing markets or products with elevated return rates, conduct targeted reviews on product–market fit, fulfillment and logistics, pricing, and customer expectations. <br> Avoid scaling volume in segments where growth is consistently offset by return-driven margin erosion. |
+| **Sales Execution & Performance Management** | Shift sales performance evaluation from revenue-centric metrics to a profitability-based scorecard (profit, margin, return rate). <br> Identify sales agents with efficient product mix and low return exposure and standardize their selling patterns across teams. <br> Align incentives and coaching to encourage margin-aware selling rather than pure volume expansion. |
+| **Operating Model Alignment** | In mature markets with slower growth, prioritize process optimization and cost discipline to sustain margins. <br> Replicate best-performing operational practices across regions instead of pursuing aggressive headcount or volume expansion. <br> Use the dashboard as a continuous decision-support tool rather than a one-time reporting artifact. |
 
----
-
-### 👩‍💼 **Sales Agent**
-**Nicole Hansen** manages the **Canadian market**.  
-Revenue, profit margin, and YoY growth are all performing well.  
-👉 **Continue her oversight of this market.**
-
----
-
-### 🛒 **Product Strategy**
-**Phones**, **Copiers**, **Chairs**, and **Bookcases** are the company’s best-selling products overall.  
-👉 **Position Copiers and Phones as strategic products moving forward.**
-
----
-
-### 📌 **Current Market Optimization by Region**
-
-#### 🌏 **APAC Market**
-- Best performer overall.  
-- Continue **heavy investment**, focusing on **Technology** and **Furniture** (each > $1.3M revenue).  
-- **Improve return rate (6–7%)** to enhance margins.
-
-#### 🇪🇺 **EU Market**
-- ~$3M revenue, **10–13% margin**, and ~55% YoY growth.  
-- Expand **Technology** and **Office Supplies** while maintaining **product quality** (return rate ~6%).
-
-#### 🇺🇸 **US Market**
-- Profitability is strong, but **revenue scale lags**.  
-- Expand product offerings or increase marketing to drive **top-line growth**.
-
-#### 🌎 **LATAM Market**
-- Strong **growth** but **low margins**.  
-- Invest cautiously with focus on **cost control** and **raising AOV** (Average Order Value).
-
-#### 🌍 **Africa & EMEA**
-- Underperforming with **high customer counts** but **negative profit**.  
-- **Investigate root causes** and consider **corrective measures or market exit.**
-
----
-
-✅ **Overall Recommendation:**  
-Focus on **expanding within high-performing regions (APAC, EU, Canada)** while **optimizing costs and returns** in underperforming ones.
